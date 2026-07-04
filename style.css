@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#111;
+    color:#fff;
+}
+
+.container{
+    width:90%;
+    max-width:500px;
+    margin:auto;
+    padding:30px;
+}
+
+h1{
+    color:red;
+    text-align:center;
+    font-size:40px;
+}
+
+.sub{
+    text-align:center;
+    color:#ccc;
+}
+
+.card{
+    background:#1b1b1b;
+    padding:20px;
+    border-radius:15px;
+    margin-top:20px;
+    border:2px solid red;
+}
+
+button,.wa{
+    width:100%;
+    padding:15px;
+    border:none;
+    border-radius:10px;
+    background:red;
+    color:white;
+    font-size:18px;
+    text-decoration:none;
+    display:block;
+    text-align:center;
+    margin-top:15px;
+    cursor:pointer;
+}
